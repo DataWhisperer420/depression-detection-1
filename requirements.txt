@@ -1,0 +1,43 @@
+# FastAPI and web framework dependencies
+fastapi
+uvicorn
+python-multipart
+jinja2
+python-dotenv
+
+# Machine Learning and Data Science
+pandas
+numpy
+scikit-learn
+scipy
+
+# Deep Learning - PyTorch
+torch
+torchvision
+torchaudio
+
+# Transformers and NLP
+transformers
+tokenizers
+textblob
+nltk
+
+# Audio Processing
+librosa
+soundfile
+
+# Data Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Pydantic for data validation
+pydantic
+
+# Additional utilities
+requests
+tqdm
+pillow
+
+# Optional: For better performance
+# numba==0.58.1  # Uncomment if needed for librosa acceleration
